@@ -55,9 +55,6 @@ Sou **Cristiano Pedrosa Ferreira**, de **Oriximiná/PA**, com **+15 anos de expe
 ---
 
 ## 📊 Estatísticas
-
-> Se o seu usuário no GitHub **não** for `foxdelphi7`, substitua nas URLs abaixo.
-
 <p>
   <img
     align="left"
