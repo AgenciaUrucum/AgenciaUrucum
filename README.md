@@ -77,10 +77,3 @@ Sou **Cristiano Pedrosa Ferreira**, de **Oriximiná/PA**, com **+15 anos de expe
 
 </p>
 
----
-
-## 📫 Contato
-- **Site/Portfólio**: [urucumagencia.com.br](https://urucumagencia.com.br)
-- **LinkedIn**: [Cristiano Pedrosa](https://www.linkedin.com/in/cristiano-pedrosa-b3710b157/)
-- **WhatsApp**: [+55 93 99188-1828](https://wa.me/5593991881828)
-- **E-mail**: <foxdelphi7@gmail.com>
