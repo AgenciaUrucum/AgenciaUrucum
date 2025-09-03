@@ -54,18 +54,9 @@ Sou **Cristiano Pedrosa Ferreira**, de **Oriximiná/PA**, com **+15 anos de expe
 
 ---
 
-## 🧩 Produtos & Cases — Agência Urucum
-- **meuDelivery**: ecossistema para pedidos online com **PDV/comanda de mesa**, **integrações de pagamento**, **extras/repetidores**, **impressão de pedidos** e **painel do lojista**.
-- **E-commerce Food Service**: templates e fluxos dedicados a **pizzarias, açaí, hamburguerias**, com **upsell**, **combo de produtos** e **entrega/retirada**.
-- **UI/UX consistente**: design tokens **#51BEB2** (accent), sombreamentos suaves, gradientes radiais/lineares e componentes adaptáveis ao **Elementor Pro**.
-
-> **Serviços**: consultoria, arquitetura, desenvolvimento custom, otimização de performance e rollout assistido.
-
----
-
 ## 📊 Estatísticas
 
-> Substitua `SEU_USUARIO_GITHUB` pelo seu usuário do GitHub para ativar os cards.
+> Se o seu usuário no GitHub **não** for `foxdelphi7`, substitua nas URLs abaixo.
 
 <p>
   <img
@@ -73,14 +64,14 @@ Sou **Cristiano Pedrosa Ferreira**, de **Oriximiná/PA**, com **+15 anos de expe
     alt="GitHub Stats"
     height="200"
     style="padding-right:10px;"
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=foxdelphi7&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 
   <img
     align="left"
     alt="Top Langs"
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=foxdelphi7&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </p>
 
